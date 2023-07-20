@@ -2,9 +2,9 @@
 
 I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelhaguiar)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelhaguiar)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/rafaelhaguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaguiar&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
   
