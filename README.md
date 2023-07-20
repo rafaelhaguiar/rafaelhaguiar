@@ -2,7 +2,7 @@
 
 I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&count_private=true&theme=dark) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&count_private=true&theme=transparent) <br />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelhaguiar)](https://github.com/anuraghazra/github-readme-stats)
 
