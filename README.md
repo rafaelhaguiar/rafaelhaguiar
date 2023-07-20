@@ -3,20 +3,12 @@
 I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
 <br />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true" />
-</picture>
-
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaguiar)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
