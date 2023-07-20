@@ -16,7 +16,7 @@ I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Braz
 </picture>
 
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaguiar&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaguiar)
 
 <div style="display: inline_block">
   <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
