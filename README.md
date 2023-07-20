@@ -6,6 +6,7 @@
 • 🧑‍💻 Some side projects using PHP. <br />
 • 🌍 Based in Brazil (São Paulo) ᴮᴿ <br />
 • 👽️ The Truth Is Out There! <br />
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&theme=transparent" />
@@ -23,7 +24,6 @@
   <img align="center" alt="Rafael-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rafael-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
-<br/>
 <br/>
 
 <p>
