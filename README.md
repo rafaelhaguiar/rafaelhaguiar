@@ -2,15 +2,12 @@
 
 I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&count_private=true&theme=transparent) <br />
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelhaguiar)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="left">
-  <a href="https://github.com/rafaelhaguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhaguiar&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-  
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelhaguiar&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelhaguiar&repo=convoychat" />
+</a>
 
 <br />
 
