@@ -14,14 +14,17 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelhaguiar&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 <br/>
+<br/>
+<br/>
 
 <div style="display: flex; justify-content: center;">
-  <img align="center" alt="Rafael-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-  <img align="center" alt="Rafael-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Rafael-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Rafael-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Rafael-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+  <img align="center" alt="Rafael-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" alt="Rafael-Sqlite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Rafael-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Rafael-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+<br/>
 
 <div> 
   <a href = "mailto:rafaelhenriqueggt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
