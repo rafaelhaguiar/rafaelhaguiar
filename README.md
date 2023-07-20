@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi! I'm Rafael Aguiar 👋
 
-I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Brazil 🌆
-<br />
+# Software Engineer <br />
+
+• 📱 Currently mostly into  Dart mobile applications using Flutter. <br />
+• 🧑‍💻 Some side projects using PHP. <br />
+• 🌍 Based in Brazil (São Paulo) ᴮᴿ <br />
+• 👽️ The Truth Is Out There! <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&theme=transparent" />
