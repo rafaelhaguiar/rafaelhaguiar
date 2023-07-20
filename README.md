@@ -1,10 +1,10 @@
 ### Hi! I'm Rafael Aguiar 👋
 
-# Software Engineer <br />
+# Software Developer <br />
 
-• 📱 Currently mostly into  Dart mobile applications using Flutter. <br />
+• 📱 Currently mostly into Dart mobile applications using Flutter. <br />
 • 🧑‍💻 Some side projects using PHP. <br />
-• 🌍 Based in Brazil (São Paulo) ᴮᴿ <br />
+• 🌍 Based in Brazil (São Paulo) <br />
 • 👽️ The Truth Is Out There! <br />
 <br/>
 
