@@ -4,7 +4,7 @@ I'm a software engineer at [Autodoc](https://autodoc.com.br) in São Paulo, Braz
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=rafaelhaguiar&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
